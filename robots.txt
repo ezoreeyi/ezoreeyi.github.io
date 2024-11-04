@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ezoreeyi.github.io/bgL/sitemap_index.txt
+Sitemap: https://ezoreeyi.github.io/iVQ/sitemap_index.txt
+Sitemap: https://ezoreeyi.github.io/lhg/sitemap_index.txt
+Sitemap: https://ezoreeyi.github.io/mfc/sitemap_index.txt
